@@ -31,7 +31,7 @@ The method `caesar_cipher(string, shift)` does the following:
 ## 🔧 Usage
 
 # Clone the repo
-git clone https://github.com/your-username/caesar-cipher.git
+git clone https://github.com/EdgarAmpiire/Project-Caesar-Cipher
 cd caesar-cipher
 
 # Run it in Ruby
